@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<string.h>
+jdsuheiuadfiuewua
 int main()
 {
     char str[81];
